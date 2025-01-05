@@ -2,9 +2,8 @@
 
 A simple TCP server implementation for lichat.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shirakumo/lichat-tcp-server.git   |
-| commit  | 06a5b69  |
-| systems | lichat-tcp-server |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/lichat-tcp-server.git |
+| commit  | d7e2bee                                                |
+| systems | lichat-tcp-server                                      |
+|---------+--------------------------------------------------------|
