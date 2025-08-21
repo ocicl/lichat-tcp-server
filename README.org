@@ -4,6 +4,6 @@ A simple TCP server implementation for lichat.
 
 |---------+----------------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/lichat-tcp-server.git |
-| commit  | adab556                                                  |
+| commit  | f82b76d                                                  |
 | systems | lichat-tcp-server                                        |
 |---------+----------------------------------------------------------|
